@@ -1,0 +1,15 @@
+.one, .three, .five{
+    background-color: rgb(237, 178, 206);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+#two{
+    color: rgb(0, 0, 200);
+    font-size: 36px;
+}
+.three, #four{
+    font-size: 24px;
+}
+#four{
+    background-color: rgba(138, 231, 138, 1);
+    font-weight: bold;
+}
